@@ -1,2 +1,5 @@
-# python_data_science_code
-Data science tricks in python
+# PythonDataScienceNotebooks
+
+* Feature Scaling
+* EDA - Visualization
+
